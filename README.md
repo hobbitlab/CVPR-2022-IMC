@@ -1,4 +1,4 @@
-# Image Matching Challenge 2022![avatar](https://storage.googleapis.com/kaggle-organizations/1623/thumbnail.png?r=141)
+# Image Matching Challenge 2022!
 
 **Register two images from different viewpoints**
 
